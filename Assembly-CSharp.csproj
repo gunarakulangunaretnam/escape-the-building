@@ -60,6 +60,7 @@
     <Compile Include="Assets\scripts\ImageTrigger.cs" />
     <Compile Include="Assets\scripts\CameraController.cs" />
     <Compile Include="Assets\scripts\PlayerCollision.cs" />
+    <Compile Include="Assets\scripts\UITextAppear.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
