@@ -8,30 +8,31 @@ As the player, you are trapped in a building and must use your wits and ingenuit
 
 **Note:** This game was developed as a prototype, but it is not finished, it has only one level.
 
-![IMAGE](github-readme-contents/banner.jpg)
+![Banner Image](github-readme-contents/banner.jpg)
 
 ## Technology and Frameworks
 
 - Unity Editor 2021.3.5f1 or higher
 
+## Project Directory layout
+
+    .
+    ├── source                        - Contains source code of the project.
+    ├── github-readme-content         - Contains readme content files.
+    ├── LICENCE                       - LICENCE file.
+    ├── README.MD                     - Readme file.
+
 ## Setup
 
-```
-hungry-squirrel\0-source
+- Open the source folder in unity editor,
 
 ```
+escape-the-building/source
+```
 
-- Open the 0-source folder in unity editor,
-
-![IMAGE](github-readme-contents/open-project.jpg)
+![Open Project](github-readme-contents/open-project.jpg)
 
 ## Demo
-
-![IMAGE](github-readme-contents/demo.gif)
-
-## Acknowledgement
-
-This simple game was built by [Jason Bond](https://www.linkedin.com/in/jasonrtbond/), a professional game developer and AR/VR/MR Specialist. [Gunarakulan Gunaretnam](https://www.linkedin.com/in/gunarakulangunaretnam/) (Me) played the supportive role in this project.
 
 ## Social Media Links
 
