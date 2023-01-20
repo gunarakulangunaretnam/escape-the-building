@@ -4,7 +4,12 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - door
+  - Undefined
+  - door-1
+  - door-2
+  - door-3
+  - door-4
+  - door-5
   layers:
   - Default
   - TransparentFX
@@ -39,12 +44,6 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: background
-    uniqueID: 3473127587
-    locked: 0
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: foreground
-    uniqueID: 466099791
     locked: 0
