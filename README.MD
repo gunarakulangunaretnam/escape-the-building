@@ -1,5 +1,12 @@
 # Escape The Building
 
+## Repo Structure 
+    .
+    ├── source                        - Contains source code of the project.
+    ├── github-readme-content         - Contains readme content files.
+    ├── LICENCE                       - LICENCE file.
+    ├── README.MD                     - Readme file.
+
 ## Introduction
 
 Welcome to "Escape the Building", a thrilling 2D game that challenges you to outsmart and outmaneuver your way out of a mysterious building. The game is built using Unity, a widely-used game engine, and programmed with C#, providing a smooth and engaging gaming experience.
@@ -13,14 +20,6 @@ As the player, you are trapped in a building and must use your wits and ingenuit
 ## Technology and Frameworks
 
 - Unity Editor 2021.3.5f1 or higher
-
-## Project Directory layout
-
-    .
-    ├── source                        - Contains source code of the project.
-    ├── github-readme-content         - Contains readme content files.
-    ├── LICENCE                       - LICENCE file.
-    ├── README.MD                     - Readme file.
 
 ## Setup
 
