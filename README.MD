@@ -1,9 +1,11 @@
 # Escape The Building
+
+## Repo Structure
     .
     ├── source                        - Contains source code of the project.
     ├── github-readme-content         - Contains readme content files.
     ├── LICENCE                       - LICENCE file.
-    ├── README.MD                     - Readme file.
+    └── README.MD                     - Readme file.
 
 ## Introduction
 
