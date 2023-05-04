@@ -1,6 +1,4 @@
 # Escape The Building
-
-## Repo Structure 
     .
     ├── source                        - Contains source code of the project.
     ├── github-readme-content         - Contains readme content files.
