@@ -1,4 +1,4 @@
-# ESCAPE THE BUILDING
+# Escape The Building
 
 ## Repo Structure
     .
